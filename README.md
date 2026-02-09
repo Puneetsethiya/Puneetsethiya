@@ -1,15 +1,16 @@
 # Hi, I'm Puneet Sethiya 
 
-MERN Stack Developer | Building Scalable Web Applications | 3+ Full-Stack Projects
+Software Engineer | MERN Stack | Problem Solving & Full-Stack Development
 
 ---
 
 ## About Me
 
-- BCA Graduate (CGPA: 8.83)
-- Built 3+ production-ready full-stack applications using the MERN stack
-- 7× Competition Winner (5 First, 2 Second)
-- Passionate about designing scalable and reliable web systems
+- BCA Graduate with a CGPA of 8.83
+- Developed multiple end-to-end full-stack applications with authentication, APIs, and dashboards
+- Winner of 7 technical competitions across inter-college and national events
+- Strong interest in building reliable, scalable, and user-focused web systems
+- Continuously improving problem-solving skills through competitive programming
 
 ---
 
