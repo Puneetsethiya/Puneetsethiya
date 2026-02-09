@@ -7,9 +7,9 @@ MERN Stack Developer | Building Scalable Web Applications | 3+ Full-Stack Projec
 ## About Me
 
 - BCA Graduate (CGPA: 8.83)
-- Built 3+ Production Ready Full Stack Applications
-- 7 Competition Wins (5× 1st, 2× 2nd)
-- Passionate about scalable web systems
+- Built 3+ production-ready full-stack applications using the MERN stack
+- 7× Competition Winner (5 First, 2 Second)
+- Passionate about designing scalable and reliable web systems
 
 ---
 
