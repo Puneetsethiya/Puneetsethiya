@@ -1,6 +1,6 @@
-# Hi, I'm Puneet Sethiya 👋
+# Hi, I'm Puneet Sethiya 
 
-MERN Stack Developer | Full-Stack Web Applications | Competitive Programmer
+MERN Stack Developer | Building Scalable Web Applications | 3+ Full-Stack Projects
 
 ---
 
@@ -49,7 +49,7 @@ Live: https://samskruthi.onrender.com/
 
 LinkedIn: https://www.linkedin.com/in/puneet-sethiya-  
 Email: puneetsethiya16@gmail.com  
-Portfolio: (Add your Vercel link)
+Portfolio: https://puneetsethiya.vercel.app
 
 ---
 
